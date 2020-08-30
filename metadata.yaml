@@ -1,11 +1,16 @@
 _repo: Emanuel-Swedenborg-s-Investigations-in-Natural-Science-and-the-Basis-for-his-Statements-Conce__63033
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63033-h/images/cover.jpg
 creator:
   author:
     agent_name: Ramström, Martin
     gutenberg_agent_id: '52240'
     url: http://www.gutenberg.org/2009/agents/52240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63033#Emanuel-Swedenborg-s-Investigations-in-Natural-Science-and-the-Basis-for-his-Statements-Conce_
 gutenberg_issued: '2020-08-24'
 gutenberg_type: Text
 identifiers:
